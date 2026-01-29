@@ -1,9 +1,10 @@
 ## 👋 Hi, I’m Clarisha Pinto
 
-🎓 I’m a **Computer Science student** at **Manipal Institute of Technology**, graduating in **2027**.
+   BTech Computer Science and Communication Engineering student at Manipal Institute of Technology graduating in 2027.
 
 💡 **Interests**
-- Software Development  
+- Software Development
+- Financial Technology
 - Computer Networks  
 - Operating Systems  
 - Machine Learning  
@@ -15,8 +16,8 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/clarisha-pinto)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:pintoclarisha@email.com)
 
 ---
 
