@@ -23,8 +23,6 @@
 
 ## 💻 Tech Stack
 **Languages & Fundamentals**  
-## 💻 Tech Stack
-
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -39,10 +37,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian)
+![Windows%20Terminal](https://img.shields.io/badge/Windows%20Terminal-blue?style=for-the-badge&logo=windowsterminal)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 **Currently Exploring**  
